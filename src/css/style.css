@@ -410,6 +410,7 @@
 
     .app__stores{
         margin-bottom: var(--mb-4);
+        margin-top: var(--mb-4);
     }
 
     .app__store{
